@@ -17,3 +17,13 @@ This project demonstrates a simple linear regression model to determine CO2 emis
 - Classification Models
 - Clustering Algorithms
 - And more...
+
+## Requirements
+
+- Python 3.x
+- Required Python packages (listed in `requirements.txt`)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
+Any feedback is also very welcomed and ecncouraged. 
