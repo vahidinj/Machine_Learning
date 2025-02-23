@@ -36,7 +36,7 @@ This project demonstrates a multiple linear regression model to predict CO2 emis
 
 #### Files
 
-- 'multiple_regression.py': Contains the code for loading data, preprocessing, building, and evaluating a multiple linear regression model.
+- `multiple_regression.py`: Contains the code for loading data, preprocessing, building, and evaluating a multiple linear regression model.
 
 #### Usage
 
@@ -51,7 +51,7 @@ This project demonstrates a multiple linear regression model to predict CO2 emis
     pip install -r requirements.txt
     ```
 
-3. Run the 'multiple_regression.py' script:
+3. Run the `multiple_regression.py` script:
     ```bash
     python multiple_regression.py
     ```
