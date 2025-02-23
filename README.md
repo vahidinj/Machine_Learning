@@ -1,27 +1,73 @@
-# Machine_Learning
+# Machine Learning
+
 This repository contains various machine learning projects and examples, starting with simple regression models and eventually including more advanced techniques such as neural networks.
-More to come in the near future
 
 ## Projects
 
 ### 1. Simple Regression
-This project demonstrates a simple linear regression model to determine CO2 emissions based on a single vehicle features.
+
+This project demonstrates a simple linear regression model to determine CO2 emissions based on vehicle features.
 
 #### Files
+
 - `simple_regression.py`: Contains the code for loading data, preprocessing, building, and evaluating a simple linear regression model.
 
-- ### Future Projects
+#### Usage
 
-- Multiple Regression
-- Neural Networks
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `simple_regression.py` script:
+    ```bash
+    python simple_regression.py
+    ```
+
+### 2. Multiple Regression
+
+This project demonstrates a multiple linear regression model to predict CO2 emissions based on multiple vehicle features.
+
+#### Files
+
+- 'multiple_regression.py': Contains the code for loading data, preprocessing, building, and evaluating a multiple linear regression model.
+
+#### Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the 'multiple_regression.py' script:
+    ```bash
+    python multiple_regression.py
+    ```
+
+### Future Projects
+
 - Classification Models
 - Clustering Algorithms
+- Neural Networks
 - And more...
 
 ## Requirements
 
 - Python 3.x
 - Required Python packages (listed in `requirements.txt`)
+
 
 ## Contributing
 
