@@ -55,6 +55,31 @@ This project demonstrates a multiple linear regression model to predict CO2 emis
     ```bash
     python multiple_regression.py
     ```
+### 3. Multiple Regression with Pipeline
+
+This project demonstrates a multiple linear regression model using a pipeline to predict CO2 emissions based on multiple vehicle features.
+
+#### Files
+
+- `multiple_regression_pipeline.py`: Contains the code for loading data, preprocessing, building, and evaluating a multiple linear regression model using a pipeline.
+
+#### Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `multiple_regression_pipeline.py` script:
+    ```bash
+    python multiple_regression_pipeline.py
+    ```
 
 ### Future Projects
 
