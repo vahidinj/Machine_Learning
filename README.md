@@ -79,7 +79,34 @@ This project demonstrates a multiple linear regression model using a pipeline to
 3. Run the `multiple_regression_pipeline.py` script:
     ```bash
     python multiple_regression_pipeline.py
+    ```    
+
+### 4. Logistic Regression
+
+This project demonstrates a logistic regression model to determine who is more likely to leave a company.
+
+#### Files
+
+- `logistic_regression.py`: Contains the code for loading data, preprocessing, building, and evaluating a logistic regression model.
+
+#### Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
     ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `logistic_regression.py` script:
+    ```bash
+    python logistic_regression.py
+    ```
+
 
 ### Future Projects
 
