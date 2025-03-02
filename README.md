@@ -106,7 +106,31 @@ This project demonstrates a logistic regression model to determine who is more l
     ```bash
     python logistic_regression.py
     ```
+### 5. Multi-Class Classification
 
+This project demonstrates a multi-class classification model to predict obesity risk using logistic regression.
+
+#### Files
+
+- `multi-class_classification.py`: Contains the code for loading data, preprocessing, building, and evaluating a multi-class classification model using logistic regression.
+
+#### Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `multi-class_classification.py` script:
+    ```bash
+    python multi-class_classification.py
+    ```
 
 ### Future Projects
 
