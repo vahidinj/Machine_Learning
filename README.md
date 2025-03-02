@@ -55,6 +55,7 @@ This project demonstrates a multiple linear regression model to predict CO2 emis
     ```bash
     python multiple_regression.py
     ```
+
 ### 3. Multiple Regression with Pipeline
 
 This project demonstrates a multiple linear regression model using a pipeline to predict CO2 emissions based on multiple vehicle features.
@@ -79,7 +80,7 @@ This project demonstrates a multiple linear regression model using a pipeline to
 3. Run the `multiple_regression_pipeline.py` script:
     ```bash
     python multiple_regression_pipeline.py
-    ```    
+    ```
 
 ### 4. Logistic Regression
 
@@ -106,6 +107,7 @@ This project demonstrates a logistic regression model to determine who is more l
     ```bash
     python logistic_regression.py
     ```
+
 ### 5. Multi-Class Classification
 
 This project demonstrates a multi-class classification model to predict obesity risk using logistic regression.
@@ -132,6 +134,32 @@ This project demonstrates a multi-class classification model to predict obesity 
     python multi-class_classification.py
     ```
 
+### 6. Decision Tree Classifier
+
+This project demonstrates a decision tree classifier to determine which drug to choose based on patient features.
+
+#### Files
+
+- `decision_tree_classifier.py`: Contains the code for loading data, preprocessing, building, and evaluating a decision tree classifier model.
+
+#### Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `decision_tree_classifier.py` script:
+    ```bash
+    python decision_tree_classifier.py
+    ```
+
 ### Future Projects
 
 - Classification Models
@@ -144,8 +172,7 @@ This project demonstrates a multi-class classification model to predict obesity 
 - Python 3.x
 - Required Python packages (listed in `requirements.txt`)
 
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
-Any feedback is also very welcomed and ecncouraged. 
+Any feedback is also very welcomed and encouraged.
