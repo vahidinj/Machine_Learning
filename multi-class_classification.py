@@ -12,7 +12,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.metrics import confusion_matrix, classification_report
 
 
-# OBJECTIVE: Obesity risk prediction via implamentation of logistic regression from multi-class classification
+# OBJECTIVE: Obesity risk prediction via implamentation of logistic regression for multi-class classification
 
 
 # Data Loading/Familiarization
