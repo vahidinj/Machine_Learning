@@ -93,7 +93,7 @@ plt.figure(figsize=(12, 14))
 plot_tree(
     pipeline.named_steps["classifier"],
     feature_names=processed_df.columns,
-    class_names=custom_map.keys(),
+    class_names=list(custom_map.keys()),  # Convert dict_keys to list
     filled=True,
 )
 plt.show()
