@@ -160,6 +160,32 @@ This project demonstrates a decision tree classifier to determine which drug to 
     python decision_tree_classifier.py
     ```
 
+### 7. K-Nearest Neighbors (KNN) Classifier
+
+This project demonstrates a K-Nearest Neighbors (KNN) classifier to predict service category (custcat).
+
+#### Files
+
+- `KNN.py`: Contains the code for loading data, preprocessing, building, and evaluating a K-Nearest Neighbors classifier model.
+
+#### Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `KNN.py` script:
+    ```bash
+    python KNN.py
+    ```
+
 ### Future Projects
 
 - Classification Models
