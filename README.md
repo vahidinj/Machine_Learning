@@ -166,7 +166,7 @@ This project demonstrates a K-Nearest Neighbors (KNN) classifier to predict serv
 
 #### Files
 
-- `KNN.py`: Contains the code for loading data, preprocessing, building, and evaluating a K-Nearest Neighbors classifier model.
+- `KNN.py`: Contains the code for loading data, preprocessing, building, and evaluating a K-Nearest Neighbors classifier model and cross validation.
 
 #### Usage
 
