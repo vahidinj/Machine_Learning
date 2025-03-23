@@ -168,6 +168,32 @@ This project demonstrates a K-Nearest Neighbors (KNN) classifier to predict serv
 
 - `KNN.py`: Contains the code for loading data, preprocessing, building, and evaluating a K-Nearest Neighbors classifier model and cross validation.
 
+### 8. K-Means Clustering
+
+This project demonstrates a K-Means clustering model for customer segmentation based on historical data.
+
+#### Files
+
+- `K-Means.py`: Contains the code for loading data, preprocessing, building, and evaluating a K-Means clustering model.
+
+#### Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `K-Means.py` script:
+    ```bash
+    python K-Means.py
+    ```
+
 #### Usage
 
 1. Clone the repository:
