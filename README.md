@@ -1,7 +1,7 @@
 # Machine Learning
 
-This repository contains various machine learning projects and examples from simple regression models and to more advanced techniques such as neural networks.
-I'll aslo intoduce other concepsts such as pipelines, grid search, mlflow and others.
+- This repository houses a diverse collection of machine learning projects and examples, ranging from simple regression models to more sophisticated techniques like neural networks.
+- Additionally, I’ll introduce other concepts such as pipelines, grid search, MLflow, and others.
 
 ## Projects
 
