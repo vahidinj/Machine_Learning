@@ -4,3 +4,5 @@ plotly.express
 seaborn
 pandas
 scikit-learn
+mlflow
+tensorflow
