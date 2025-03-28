@@ -1,6 +1,7 @@
 # Machine Learning
 
-This repository contains various machine learning projects and examples, starting with simple regression models and eventually including more advanced techniques such as neural networks.
+This repository contains various machine learning projects and examples from simple regression models and to more advanced techniques such as neural networks.
+I'll aslo intoduce other concepsts such as pipelines, grid search, mlflow and others.
 
 ## Projects
 
@@ -441,6 +442,7 @@ This project demonstrates the use of an Artificial Neural Network (ANN) to predi
 #### Files
 
 - `ann_mlflow.py`: Contains the code for loading data, preprocessing, building, training, and evaluating an ANN model. It also logs metrics, confusion matrix, and classification report using MLflow.
+- Data for this model is stored in `Churn_Modelin.csv
 
 #### Usage
 
@@ -468,6 +470,7 @@ This project demonstrates the use of an Artificial Neural Network (ANN) to predi
 
 ### Future Projects
 
+- convolutional neural networks (CNN)
 - Updated folder/file structure
 
 ## Requirements
