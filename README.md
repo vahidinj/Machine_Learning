@@ -434,12 +434,41 @@ This project demonstrates the use of a machine learning pipeline to classify the
     python KNN_GridSearchCV.py
     ```
 
+### 10. Artificial Neural Network (ANN) with MLflow
+
+This project demonstrates the use of an Artificial Neural Network (ANN) to predict customer churn. The model is integrated with MLflow for experiment tracking, logging metrics, and saving artifacts.
+
+#### Files
+
+- `ann_mlflow.py`: Contains the code for loading data, preprocessing, building, training, and evaluating an ANN model. It also logs metrics, confusion matrix, and classification report using MLflow.
+
+#### Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vahidinj/Machine_Learning.git
+    cd Machine_Learning
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the `ann_mlflow.py` script:
+    ```bash
+    python ann_mlflow.py
+    ```
+
+4. View the MLflow UI to track experiments:
+    ```bash
+    mlflow ui
+    ```
+    Open `http://localhost:5000` in your browser to view the logged metrics and artifacts.
+
 ### Future Projects
 
-- Classification Models
-- Clustering Algorithms
-- Neural Networks
-- And more...
+- Updated folder/file structure
 
 ## Requirements
 
@@ -450,13 +479,6 @@ This project demonstrates the use of a machine learning pipeline to classify the
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 Any feedback is also very welcomed and encouraged.
-
-### Future Projects
-
-- Classification Models
-- Clustering Algorithms
-- Neural Networks
-- And more...
 
 ## Requirements
 
