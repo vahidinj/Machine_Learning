@@ -12,7 +12,7 @@ import numpy as np
 with mlflow.start_run():
     # Load the dataset
     df = pd.read_csv(
-        "/Users/deanjupic/Documents/Python/Udemy/machine_learing_a-z/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Churn_Modelling.csv"
+        "Churn_Modelling.csv"
     )
     df.drop(["RowNumber", "CustomerId", "Surname"], axis=1, inplace=True)
 
